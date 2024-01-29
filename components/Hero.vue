@@ -10,15 +10,7 @@
         </h1>
       </div>
       <p class="mt-4 text-base leading-7 text-slate-600">
-        Logspot is an open source change log template made with Nuxt, Vue, and
-        Tailwindcss. Subscribe to our newsletter to get the latest updates or
-        follow us on
-        <a
-          class="text-primary underline"
-          href="https://twitter.com/fayazara"
-          target="_blank"
-          >twitter</a
-        >.
+Think less. Stupid more.
       </p>
     </div>
   </header>

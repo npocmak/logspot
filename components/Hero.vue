@@ -2,7 +2,7 @@
   <header class="py-12 px-4 sm:px-6 lg:px-8">
     <div class="relative mx-auto max-w-[37.5rem] pt-20 text-center pb-20">
       <div class="flex items-center justify-center space-x-3">
-        <img loading="lazy" src="/logo.png" alt="Logspot" class="h-20 w-20" />
+        <img loading="lazy" src="https://files.0x.beer/lulz.png" alt="log" class="h-20 w-20" />
         <h1
           class="text-4xl font-extrabold tracking-tight text-slate-700 sm:text-5xl"
         >

@@ -6,7 +6,7 @@ export default {
     title: "mazafaka's blog",
     description:
       "Think Less. Stupid More.",
-    image: "https://logspot.vercel.app/logspot-banner.png",
+    image: "https://files.0x.beer/lulz.png",
     url: "https://blog.0x.beer",
   },
 };
